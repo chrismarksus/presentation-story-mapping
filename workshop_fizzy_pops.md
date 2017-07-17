@@ -8,7 +8,7 @@ You have just been hire by *Fizzy Pops* soda company. For the past 5 years they 
 ## Products
 * 10 base flavors sold by the case 24 bottles or a 6 pack of bottles.
 
-## New Products
+## Near Future Products
 The company was about to offer a customization of the their 10 base products with added flavored. The company plans to roll out with 2 modification flavors cherry and vanilla. They planned to introduce new flavors a few times each year *(like Sam Adams)* and keep the more popular ones, abandon less popular flavors, and other seasonally. They are production ready but the new demand is interpreting there able to roll out the new product. The business wants to use the new web site to roll out the new products.
 
 ## Future Products
