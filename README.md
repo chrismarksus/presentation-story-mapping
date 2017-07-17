@@ -12,3 +12,10 @@ This is a presentation and workshop  to help explain what *Story Mapping* is and
 
 * **master** - Excersies for practicing story mapping
 * **gh-page** - A presentation about story mapping. What it is. How to pull it off and my experiences with mapping
+
+## Resources
+
+* [Why Story Mapping?](https://chrismarksus.github.io/presentation-story-mapping/#/)
+* [Jeff Patton user story page](http://jpattonassociates.com/user-story-mapping/)
+* [Story mapping visual way building product backlog](https://www.thoughtworks.com/insights/blog/story-mapping-visual-way-building-product-backlog)
+* [Creating an Agile Road Map Using Story Mapping](https://www.scrumalliance.org/community/articles/2013/august/creating-an-agile-roadmap-using-story-mapping)
