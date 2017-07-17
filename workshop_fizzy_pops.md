@@ -1,4 +1,4 @@
-# Story Mapping Workshop
+# Fizzy Pops - Story Mapping Workshop
 
 If you  are not familiar with Story Mapping Please refer to [presentation-story-mapping](https://chrismarksus.github.io/presentation-story-mapping/#/) or [User Story Mapping by: Jeff Patton](http://jpattonassociates.com/user-story-mapping/). 
 
